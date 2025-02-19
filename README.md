@@ -49,7 +49,7 @@ Bem-vindo ao **Carrinho de Compras**, uma aplicação web que simula um carrinho
 
 ---
 
-## 👨🏻‍💻 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: Estruturação da página.
 - **CSS**: Estilização e design da interface.
